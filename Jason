@@ -1,0 +1,13 @@
+{
+name : Джейсон
+version :1. 0.0. ,
+descripttion : 
+main : index. js ,
+scripts : { 
+  test : echo \ Error : no test specitied\
+{,
+keywords :{ 
+bot ,
+whatsapp ,
+whatsapp- bot ,
+whatsapp-multi-device ,
